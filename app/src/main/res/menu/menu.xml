@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:icon="@drawable/ic_home"
+        android:id="@+id/home"
+        tools:ignore="MenuTitle" />
+
+    <item android:icon="@drawable/ic_iconmonstr_heart_thin"
+        android:id="@+id/heart"
+        tools:ignore="MenuTitle" />
+
+    <item android:icon="@drawable/ic_account"
+        android:id="@+id/account"
+        tools:ignore="MenuTitle" />
+</menu>
